@@ -1,0 +1,3 @@
+$GIT_DIR/info/exclude config.py
+$GIT_DIR/info/exclude __pycache__
+$GIT_DIR/info/exclude dirac.ipynb
